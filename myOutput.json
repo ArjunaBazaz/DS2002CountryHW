@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Taiwan",
+        "capital":"Taipei",
+        "population":23503349
+    },
+    {
+        "name":"China",
+        "capital":"Beijing",
+        "population":1402112000
+    },
+    {
+        "name":"Hong Kong",
+        "capital":"City of Victoria",
+        "population":7500700
+    },
+    {
+        "name":"Macau",
+        "capital":null,
+        "population":649342
+    },
+    {
+        "name":"Germany",
+        "capital":"Berlin",
+        "population":83240525
+    }
+]
